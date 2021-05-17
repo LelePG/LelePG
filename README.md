@@ -27,7 +27,7 @@ Além de repositórios no github e eventuais artigos acadêmicos, eu também pos
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Status sobre o que eu ando fazendo por aqui!
-[![Status do Github da Lelê](https://github-readme-stats.vercel.app/api?username=lelepg&hide=issues,prs&show_icons=true&theme=dark)](https://github.com/LelePG/github-readme-stats)
+[![Status do Github da Lelê](https://github-readme-stats.vercel.app/api?username=lelepg&show_icons=true&theme=dark)](https://github.com/LelePG/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lelepg&repo=esp_8266&theme=dark)](https://github.com/LelePG/Esp_8266)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lelepg&repo=virtual-cat&theme=dark)](https://github.com/LelePG/Virtual-Cat)
