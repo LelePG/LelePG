@@ -16,6 +16,8 @@ Algumas coisas estão em inglês, algumas coisas estão em português, e não se
 Além de repositórios no github e eventuais artigos acadêmicos, eu também posto artigos no [Dev.to](https://dev.to/lelepg) e no [The Relicans](https://www.therelicans.com/lelepg), e tenho um [canal no youtube](https://www.youtube.com/channel/UCSTtVZeXrueBBRorTKDSAbQ), onde estou tentando documentar todos os meus projetos makers. Tento postar vídeos todos os domingos!
 
 ## O que eu já estudei?
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,14 +40,12 @@ Além de repositórios no github e eventuais artigos acadêmicos, eu também pos
 
 
 ## Status sobre o que eu ando fazendo por aqui!
-[![Status do Github da Lelê](https://github-readme-stats.vercel.app/api?username=lelepg&show_icons=true&theme=dracula)](https://github.com/LelePG/github-readme-stats)
+<div align = "center">
+ 
+ ![Github Status](https://github-readme-stats.vercel.app/api?username=lelepg&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lelepg&repo=esp_8266&theme=dracula)](https://github.com/LelePG/Esp_8266)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lelepg&repo=virtual-cat&theme=dracula)](https://github.com/LelePG/Virtual-Cat)
-
-
- <img src="https://github-profile-trophy.vercel.app/?username=lelepg&theme=dracula&row=1" alt="LelePG" />
-
+ ![Github Trophies](https://github-profile-trophy.vercel.app/?username=lelepg&theme=dracula&row=1)
+</div>
 
 
 
