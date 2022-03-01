@@ -1,5 +1,9 @@
 ![Boas vindas ao meu Github](imagens/capa.gif)
-Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/), estagiária na [Cod3r](https://www.cod3r.com.br/) e coordenadora e podcaster da [comunidade Feministech](https://feministech.github.io/). Também sou criadora de vários repositórios com projetos legais. No meu Github você encontra:
+
+## 👩‍💻 Quem sou eu 👩‍💻
+Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/), estagiária na [Cod3r](https://www.cod3r.com.br/) e coordenadora e podcaster da [comunidade Feministech](https://feministech.github.io/). Também sou criadora de vários repositórios com projetos legais. 
+
+## 🗂️ O que você encontra no meu Github 🗂️
 
 👩‍💻 Projetos de frontend
 
@@ -16,7 +20,7 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 🎶️ Códigos musicais
 
 
-### Tecnologias que estou utilizando mais no momento
+## 🌟 Tecnologias que estou utilizando mais no momento 🌟
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,7 +35,7 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Tecnologias que eu já estudei
+## ⭐ Tecnologias que eu já estudei ⭐
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,7 +50,7 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-### Status sobre o que eu ando fazendo por aqui!
+## 📊 Status sobre o que eu ando fazendo por aqui 📊
 <div align = "center">
  
 ![Status Lelepg](https://github-readme-stats.vercel.app/api?username=lelepg&show_icons=true&theme=dracula) 
@@ -55,13 +59,13 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
  
 </div>
 
-### Veja os conteúdos que eu produzo
+## 💎 Veja os conteúdos que eu produzo 💎
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) ](https://dev.to/lelepg)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSTtVZeXrueBBRorTKDSAbQ)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/5C1LL8H7iFCmUCoEmGJkd5)
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/lelepg)
 
-### Quer me encontrar nas redes sociais? 
+## 🔎 Me encontre nas redes sociais 🔎
 Eu fiz um site com vários links que vai facilitar muito o seu trabalho. [Clique aqui](https://lelepg.herokuapp.com/) para dar uma olhada.
 
  
