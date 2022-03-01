@@ -49,11 +49,10 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 ### Status sobre o que eu ando fazendo por aqui!
 <div align = "center">
  
-![Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lelepg&theme=dracula#gh-dark-mode-only)
-![Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lelepg&theme=github#gh-ligth-mode-only)
-
- ![Github Trophies](https://github-profile-trophy.vercel.app/?username=lelepg&theme=dracula&column=6&row=1#gh-dark-mode-only)
- ![Github Trophies](https://github-profile-trophy.vercel.app/?username=lelepg&theme=flat&column=6&row=1#gh-light-mode-only)
+![Status Lelepg](https://github-readme-stats.vercel.app/api?username=lelepg&show_icons=true&theme=dracula) 
+ 
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=lelepg&theme=dracula&column=6&row=1&margin-w=10)
+ 
 </div>
 
 
