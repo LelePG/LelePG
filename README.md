@@ -61,7 +61,7 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 
 ## 💎 Veja os conteúdos que eu produzo 💎
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) ](https://dev.to/lelepg)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSTtVZeXrueBBRorTKDSAbQ)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/5C1LL8H7iFCmUCoEmGJkd5)
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/lelepg)
 
