@@ -65,7 +65,7 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/5C1LL8H7iFCmUCoEmGJkd5)
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/lelepg)
 
-## 🔎 Me encontre nas redes sociais 🔎
-Eu fiz um site com vários links que vai facilitar muito o seu trabalho. [Clique aqui](https://lelepg.herokuapp.com/) para dar uma olhada.
+<!-- ## 🔎 Me encontre nas redes sociais 🔎
+Eu fiz um site com vários links que vai facilitar muito o seu trabalho. [Clique aqui](https://lelepg.herokuapp.com/) para dar uma olhada. -->
 
  
