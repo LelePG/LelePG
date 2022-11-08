@@ -59,6 +59,10 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
  
 </div>
 
+## 🦖 Minhas bagdes no Holopin 🦖
+
+ [![@lelepg's Holopin board](https://holopin.me/lelepg)](https://holopin.io/@lelepg)
+
 ## 💎 Veja os conteúdos que eu produzo 💎
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) ](https://dev.to/lelepg)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
@@ -68,4 +72,4 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 <!-- ## 🔎 Me encontre nas redes sociais 🔎
 Eu fiz um site com vários links que vai facilitar muito o seu trabalho. [Clique aqui](https://lelepg.herokuapp.com/) para dar uma olhada. -->
 
- 
+
