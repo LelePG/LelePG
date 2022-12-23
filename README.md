@@ -13,11 +13,9 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 
 🖥️ Alguns códigos aleatórios
 
-⚙️ Placas de circuito impresso
+⚙️ Projetos de placas de circuito impresso
 
-👩‍🏫️ Algumas oficinas que já ministrei
-
-🎶️ Códigos musicais
+👩‍🏫️ Algumas oficinas e palestras que já
 
 
 ## 🌟 Tecnologias que estou utilizando mais no momento 🌟
@@ -34,6 +32,9 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 ![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 
 ## ⭐ Tecnologias que eu já estudei ⭐
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -48,14 +49,14 @@ Olá! Meu nome é Letícia. Eu sou estudante de Engenharia da Computação na [U
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 Status sobre o que eu ando fazendo por aqui 📊
 <div align = "center">
  
-![Status Lelepg](https://github-readme-stats.vercel.app/api?username=lelepg&show_icons=true&theme=dracula) 
+![Status Lelepg](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lelepg&theme=nord_dark) 
  
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=lelepg&theme=dracula&column=6&row=1&margin-w=10)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=lelepg&theme=nord&column=6&row=1&margin-w=10)
  
 </div>
 
