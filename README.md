@@ -1,7 +1,7 @@
 ![Boas vindas ao meu Github](imagens/capa.gif)
 
 ## 👩‍💻 Quem sou eu 👩‍💻
-Olá! Meu nome é Letícia. Eu sou Engenheira de Computação, professora na [Cod3r](https://www.cod3r.com.br/), coordenadora e podcaster da [comunidade Feministech](https://feministech.github.io/), palestrante, colaboradora do projeto [Franzininho](https://github.com/Franzininho), embaixadora do programa [Women Techmakers](https://developers.google.com/womentechmakers), co-organizada do [GDG Pelotas](https://gdg.community.dev/gdg-pelotas/) e criadora de vários repositórios com projetos legais.
+Olá! Meu nome é Letícia. Eu sou Engenheira de Computação, professora na [Cod3r](https://www.cod3r.com.br/), coordenadora e podcaster da [comunidade Feministech](https://feministech.github.io/), palestrante, colaboradora do projeto [Franzininho](https://github.com/Franzininho), embaixadora do programa [Women Techmakers](https://developers.google.com/womentechmakers), co-organizadora do [GDG Pelotas](https://gdg.community.dev/gdg-pelotas/) e criadora de vários repositórios com projetos legais.
 
 ## 🗂️ O que você encontra no meu Github 🗂️
 
