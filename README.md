@@ -1,6 +1,7 @@
 ![Boas vindas ao meu Github](imagens/capa.gif)
 
 ## 👩‍💻 Quem sou eu 👩‍💻
+
 Olá! Meu nome é Letícia. Eu sou Engenheira de Computação, professora na [Cod3r](https://www.cod3r.com.br/), coordenadora e podcaster da [comunidade Feministech](https://feministech.github.io/), palestrante, colaboradora do projeto [Franzininho](https://github.com/Franzininho), embaixadora do programa [Women Techmakers](https://developers.google.com/womentechmakers), co-organizadora do [GDG Pelotas](https://gdg.community.dev/gdg-pelotas/) e criadora de vários repositórios com projetos legais.
 
 ## 🗂️ O que você encontra no meu Github 🗂️
@@ -17,8 +18,8 @@ Olá! Meu nome é Letícia. Eu sou Engenheira de Computação, professora na [Co
 
 👩‍🏫️ Algumas oficinas que já ministrei
 
-
 ## 🌟 Tecnologias que estou utilizando mais no momento 🌟
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -35,8 +36,12 @@ Olá! Meu nome é Letícia. Eu sou Engenheira de Computação, professora na [Co
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
 
 ## ⭐ Tecnologias que eu já estudei ⭐
+
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -52,6 +57,7 @@ Olá! Meu nome é Letícia. Eu sou Engenheira de Computação, professora na [Co
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📊 Status sobre o que eu ando fazendo por aqui 📊
+
 <div align = "center">
  
 ![Status Lelepg](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lelepg&theme=nord_dark) 
@@ -62,12 +68,11 @@ Olá! Meu nome é Letícia. Eu sou Engenheira de Computação, professora na [Co
 
 ## 🦖 Minhas bagdes no Holopin 🦖
 
- [![@lelepg's Holopin board](https://holopin.me/lelepg)](https://holopin.io/@lelepg)
+[![@lelepg's Holopin board](https://holopin.me/lelepg)](https://holopin.io/@lelepg)
 
 ## 💎 Veja os conteúdos que eu produzo 💎
+
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) ](https://dev.to/lelepg)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/5C1LL8H7iFCmUCoEmGJkd5)
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/lelepg)
-
-
